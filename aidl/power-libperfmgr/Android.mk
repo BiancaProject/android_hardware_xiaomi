@@ -32,7 +32,7 @@ LOCAL_SHARED_LIBRARIES := \
     liblog \
     libperfmgr \
     libutils \
-    pixel-power-ext-V1-ndk
+    pixel-power-ext-V1-ndk_platform
 
 LOCAL_SRC_FILES := \
     service.cpp \
